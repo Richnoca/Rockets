@@ -1,0 +1,7 @@
+pip install nba_api pandas matplotlib
+
+nba_api
+
+pandas
+
+matplotlib
