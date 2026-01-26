@@ -1,4 +1,4 @@
-# Houston Rockets Performance Tracker 🏀
+# Houston Rockets Performance Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![NBA](https://img.shields.io/badge/NBA-Stats-green)
