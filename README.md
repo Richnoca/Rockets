@@ -63,7 +63,7 @@ The program focuses is to generate an in depth tracker of player stats and team 
 
 2. **Preprocessing**  
    - Converts game dates to a usable format.  
-   - Filters games on or after **October 21, 2025**.  
+   - Filters games on or after the season starte date of **October 21, 2025**.  
    - Identifies wins, losses, and home games.
 
 3. **Statistical Analysis**  
