@@ -3,6 +3,7 @@ from team_stats import preprocess_games, season_summary
 from trends import add_rolling_averages
 from gui import RocketsApp
 
+//launches program and gui
 
 def main():
     df = load_team_games(season="2025-26")
