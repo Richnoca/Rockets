@@ -13,7 +13,7 @@ The program focuses is to generate an in depth tracker of player stats and team 
 
 ---
 
-# List of features expecting to be added.
+# List of upcoming features.
 
 - Player stats and game by game analysis
 - defensive metrics that show opponent scoring
